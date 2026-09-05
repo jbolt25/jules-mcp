@@ -1,0 +1,1 @@
+Jules MCP setup verified on 2026-09-05. jules-mcp 1.29.1 passed MCP initialization. Read-only jules_list_sources returned jbolt25/GMP_import, jbolt25/bacnet_collector, jbolt25/home-pulse-103, and jbolt25/jules-mcp. No Jules session was started. Codex uses UV_CACHE_DIR at C:\Users\Will\Documents\Codex\.cache\jules-uv.
